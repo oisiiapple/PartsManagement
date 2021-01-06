@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">PartsManagement</string>
+    <string name="title">余剰部品管理アプリ</string>
+    <string name="search">検索</string>
+    <string name="new_regi">新規登録</string>
+    <string name="model_set">機種設定</string>
+    <string name="back">戻る</string>
+    <string name="add">追加</string>
+    <string name="delete">削除</string>
+    <string name="model_name">機種名：</string>
+    <string name="add_success">データの追加に成功しました</string>
+    <string name="type_no">型番：</string>
+    <string name="use_model_name">使用機種名：</string>
+    <string name="amount">数量：</string>
+    <string name="place">場所：</string>
+    <string name="map">地図</string>
+    <string name="unit">単位：</string>
+    <string name="regi">登録</string>
+    <string name="place_code">場所コード</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="e">E</string>
+    <string name="f">F</string>
+    <string name="g">G</string>
+    <string name="h">H</string>
+    <string name="i">I</string>
+    <string name="delete_success">データの削除に成功しました</string>
+    <string name="compass">compass</string>
+    <string name="map_text">保管場所をタップしてください</string>
+    <string name="map_text_tana">棚の場合はどの段かも選択してください</string>
+    <string name="upper">上段</string>
+    <string name="middle">中段</string>
+    <string name="lower">下段</string>
+    <string name="shelf_upper">（上）</string>
+    <string name="shelf_middle">（中）</string>
+    <string name="shelf_lower">（下）</string>
+    <string-array name="array_unit">
+        <item>個</item>
+        <item>本</item>
+        <item>cm</item>
+    </string-array>
+    <string name="not_select">選択なし</string>
+    <string name="cannot_delete">このデータは削除できません</string>
+    <string name="no_data">データがありません</string>
+    <string name="search_result">検索結果</string>
+    <string name="details">詳細</string>
+    <string name="update">更新</string>
+    <string name="update_success">データの更新に成功しました</string>
+    <string name="delete_dialog">削除の確認ダイアログ</string>
+    <string name="delete_message">このデータを削除しますか？</string>
+    <string name="yes">はい</string>
+    <string name="cancel">キャンセル</string>
+</resources>
